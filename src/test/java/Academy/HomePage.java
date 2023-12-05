@@ -79,7 +79,7 @@ public class HomePage extends base{
 		
 		//git push
 		
-		
+		//git pull
 		
 	}
 	
